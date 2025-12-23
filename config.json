@@ -1,9 +1,9 @@
 {
   "gist_url": "https://gist.githubusercontent.com/xSaraap/9169c22bd7959cc9f824955a78b9498a/raw/byfastflag_revoked_keys.json",
   "active_licenses_url": "https://gist.githubusercontent.com/xSaraap/96fbd772b4de6273a2e430429c02c557/raw/byfastflag_active_licenses.json",
-  "updated": "2025-12-23T18:07:07.5226735Z",
+  "updated": "2025-12-23T18:59:57.5495050Z",
   "version": "1.0",
-  "revoked_count": 34,
-  "last_update": "2025-12-24 02:07:07",
+  "revoked_count": 35,
+  "last_update": "2025-12-24 02:59:57",
   "note": "Updated via LicenseGenerator"
 }
